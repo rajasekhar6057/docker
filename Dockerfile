@@ -5,4 +5,4 @@ LABEL maintainer="rajasekharmekala57@gmail.com"
 ADD pythonprog.py /docker/
 
 
-CMD [ "python" ,"./pythonprog.py"]
+CMD [ "python" ,"./docker/pythonprog.py"]
